@@ -1,4 +1,4 @@
-#Landing Page
+# Landing Page
 
 This is my second project to work on under The Odin Project  
 
