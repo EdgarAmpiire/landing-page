@@ -8,6 +8,8 @@ body{
     font-family: Roboto, sans-serif;
 }
 
+/* First container  */
+
 .container{
     height:500px;
     background-color: #1F2937;
@@ -76,6 +78,8 @@ a{
     background-size: cover; 
 }
 
+/* Second Container  */
+
 .container-two{
     background-color: #FFF;
     padding: 50px 200px;
@@ -118,3 +122,25 @@ a{
     text-align: center;
 }
 
+/* Third Container  */
+
+.container-three{
+    background-color: #E5E7EB;
+    padding: 150px 300px;
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.container-three h1{
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.container-three h3{
+    font-size: 18px;
+    color: #1F2937;
+    margin-top: 20px;
+    text-align: right;
+}
