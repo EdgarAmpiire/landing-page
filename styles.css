@@ -105,8 +105,16 @@ a{
     height: 220px;
 }
 
+.card img{
+    width: auto;
+    height: 130px;
+    border: #1F2937 3px solid;
+    border-radius: 10px;
+}
+
 .card p{
     margin-top: 5px;
     padding: 20px 0px;
     text-align: center;
 }
+
